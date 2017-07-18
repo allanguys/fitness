@@ -1,18 +1,30 @@
 # Fitness  码农的健身知识储备
 
+## 抗阻训练
+
+
 ----------
-##抗阻训练
 
-##有氧训练
 
-##营养
+## 有氧训练
 
-##计划
+----------
 
-##书籍
+## 营养
 
-##关注
+----------
 
-- 硬派健身
-![硬派健身](/tfl/pictures/201707/tapd_10160851_1500375400_66.png)
+## 计划
+
+----------
+## 书籍
+
+----------
+
+## 关注
+
+
+-  硬派健身
+![enter image description here](https://raw.githubusercontent.com/allanguys/fitness/master/image/yingpai.png)
+----------
 
